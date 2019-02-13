@@ -13,8 +13,8 @@
   "keywords": [
     "leetcodeforjs"
   ],
-  "author": "cuc_ygh@163.com",
-  "license": "Apache-2.0",
+  "author": "purcyguo@gmail.com",
+  "license": "MIT",
   "dependencies": {
     "@babel/core": "7.1.2",
     "@babel/preset-env": "7.1.6",
