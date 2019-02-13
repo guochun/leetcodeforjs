@@ -19,4 +19,4 @@ function reverseWords_test(s) {
 }
 
 
-export default reverseWorld
+export default reverseWords
