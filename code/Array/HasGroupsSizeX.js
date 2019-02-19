@@ -3,5 +3,6 @@
  * @return {boolean}
  */
 var hasGroupsSizeX = function(deck) {
-    
-};
+  
+
+}
